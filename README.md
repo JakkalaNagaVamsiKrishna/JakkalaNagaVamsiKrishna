@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi...
+I am a undergrad student from IIT Kharagpur.
+I'm currently working on my KWoC contribution in solving an issue.
+I'm currently learning backend and database management systems to build a project.
+I'm looking to contribute on a project related to ML or CV.
+I'm interested in learning data analytics and looking for some project partners.
+
+Others:
+I'm an actor.
+I'm a fitness freak(even though i skip gym sometimes).
+I'm Toji Fushiguro(I'm serious about this).
 
 <!--
 **JakkalaNagaVamsiKrishna/JakkalaNagaVamsiKrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
