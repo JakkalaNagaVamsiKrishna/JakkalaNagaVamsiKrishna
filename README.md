@@ -1,9 +1,14 @@
 ## Hi there ... 
 I am a undergrad student from IIT Kharagpur.
+
 I'm currently working on my KWoC contribution in solving an issue.
+
 I'm currently learning backend and database management systems to build a project.
+
 I'm looking to contribute on a project related to ML or CV.
+
 I'm interested in learning data analytics and looking for some project partners.
+
 
 Others:
 - I'm an actor.
