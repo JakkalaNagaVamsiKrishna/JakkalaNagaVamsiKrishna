@@ -10,8 +10,8 @@ I'm looking to contribute on a project related to ML or CV.
 I'm interested in learning data analytics and looking for some project partners.
 
 So far I know ..
-C,Cpp,python,prolog
-frontend dev(HTML,CSS,JS),React, Nodejs.
+ C, Cpp, python, prolog 
+ frontend dev(HTML,CSS,JS), React, Nodejs.
 
 Others:
 - I'm an actor.
