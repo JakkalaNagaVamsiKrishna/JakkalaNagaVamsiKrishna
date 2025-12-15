@@ -13,10 +13,7 @@ So far I know ..
  C, Cpp, python, prolog,
  frontend dev(HTML,CSS,JS), React, Nodejs.
 
-Others:
-- I'm an actor.
-- I'm a fitness freak(even though i skip gym sometimes).
-- I'm Toji Fushiguro(I'm serious about this).
+
 
 <!--
 **JakkalaNagaVamsiKrishna/JakkalaNagaVamsiKrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
